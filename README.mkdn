@@ -1,5 +1,7 @@
 # Pirum-Dev-Info - The Bash Screenshot Information Tool
 
+## Will be moddifing program more in the future not a priority for early development!
+
 ## Forked from ScreenFetch
 
 ## What is Pirum-Dev-Info?
